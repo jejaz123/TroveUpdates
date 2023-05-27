@@ -37,6 +37,7 @@ Ferny Fisher    https://trovesaurus.com/collections/fishing/ashen_pole
 Irradiant Rod   https://trovesaurus.com/collections/fishing/irradiant_pole
 Turtle Trawler  https://trovesaurus.com/collections/fishing/turtle_pole
 Murkwater Mark's Mucker https://trovesaurus.com/collections/fishing/crab_pole
+Tweeting Trawler  https://trovesaurus.com/collections/fishing/bird_pole
 ```
 
 ## Pet
